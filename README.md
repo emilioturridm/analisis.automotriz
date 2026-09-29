@@ -1,4 +1,4 @@
-# 🚗 Análisis del sector automotriz (2016–2026)
+# Análisis del sector automotriz (2016–2026)
 
 ¿Qué armadoras han creado más valor en la última década y cuáles resistieron mejor la crisis de semiconductores?
 
